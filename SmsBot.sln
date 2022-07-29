@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32721.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsBot", "SmsBot.csproj", "{DE108DF5-A429-470B-93C6-6CBEF5AB959D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE108DF5-A429-470B-93C6-6CBEF5AB959D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE108DF5-A429-470B-93C6-6CBEF5AB959D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE108DF5-A429-470B-93C6-6CBEF5AB959D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE108DF5-A429-470B-93C6-6CBEF5AB959D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A307A4-D0C4-4D85-BF8D-364328EBAD24}
+	EndGlobalSection
+EndGlobal
