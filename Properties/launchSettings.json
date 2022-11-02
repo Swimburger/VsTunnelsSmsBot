@@ -16,15 +16,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "createTunnel": true,
-      "tunnelAuthentication": "public"
-    },
-    "IIS Express": {
-      "commandName": "IISExpress",
-      "launchBrowser": true,
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      "devTunnelEnabled": true,
+      "devTunnelAccess": "public"
     }
   }
 }
